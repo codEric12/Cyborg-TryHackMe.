@@ -1,1 +1,1 @@
-# Cyborg-TryHackMe.
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ericmwendarobert/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@<username>/<articleNumber>" alt="Recent article #1"></a>
